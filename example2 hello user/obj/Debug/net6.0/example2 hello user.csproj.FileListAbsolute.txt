@@ -1,0 +1,15 @@
+C:\geekbrains\1lection\example2 hello user\bin\Debug\net6.0\example2 hello user.exe
+C:\geekbrains\1lection\example2 hello user\bin\Debug\net6.0\example2 hello user.deps.json
+C:\geekbrains\1lection\example2 hello user\bin\Debug\net6.0\example2 hello user.runtimeconfig.json
+C:\geekbrains\1lection\example2 hello user\bin\Debug\net6.0\example2 hello user.dll
+C:\geekbrains\1lection\example2 hello user\bin\Debug\net6.0\example2 hello user.pdb
+C:\geekbrains\1lection\example2 hello user\obj\Debug\net6.0\example2 hello user.csproj.AssemblyReference.cache
+C:\geekbrains\1lection\example2 hello user\obj\Debug\net6.0\example2 hello user.GeneratedMSBuildEditorConfig.editorconfig
+C:\geekbrains\1lection\example2 hello user\obj\Debug\net6.0\example2 hello user.AssemblyInfoInputs.cache
+C:\geekbrains\1lection\example2 hello user\obj\Debug\net6.0\example2 hello user.AssemblyInfo.cs
+C:\geekbrains\1lection\example2 hello user\obj\Debug\net6.0\example2 hello user.csproj.CoreCompileInputs.cache
+C:\geekbrains\1lection\example2 hello user\obj\Debug\net6.0\example2 hello user.dll
+C:\geekbrains\1lection\example2 hello user\obj\Debug\net6.0\refint\example2 hello user.dll
+C:\geekbrains\1lection\example2 hello user\obj\Debug\net6.0\example2 hello user.pdb
+C:\geekbrains\1lection\example2 hello user\obj\Debug\net6.0\example2 hello user.genruntimeconfig.cache
+C:\geekbrains\1lection\example2 hello user\obj\Debug\net6.0\ref\example2 hello user.dll
